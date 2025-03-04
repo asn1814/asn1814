@@ -3,7 +3,7 @@ Hi! I'm Andrew Nakamoto, a Computer Science major at the University of Washingto
 
 #### I've worked on:
 - LLM tooling and research on Meta's Fundamental AI Research team as a SWE Intern.
-- machine learning research and iOS integration using Swift, PyTorch, and Onnx with Professor Gollakota at the Allen School.
+- machine learning research and iOS integration with Professor Gollakota at UW.
 - directing DubHacks, the largest hackathon in the PNW.
 
 #### Learn more about me at:
